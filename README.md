@@ -19,3 +19,13 @@
 ## Best practices that I followed
 - Usage of useState to track form state.
 - Usage of useEffect to mount user data dynamically.
+
+### Images
+
+![image](https://github.com/user-attachments/assets/ee1ead0b-8790-49ff-b5c0-8e25147a6b00)
+
+![image](https://github.com/user-attachments/assets/6c33cc5e-710d-47a4-bae2-302ea6759fc6)
+
+![image](https://github.com/user-attachments/assets/0522cafa-0af8-4af1-81a3-ff3103ff2f2d)
+
+
