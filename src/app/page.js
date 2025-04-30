@@ -5,7 +5,7 @@ import PokemonCards from "@/app/components/PokemonCards";
 
 export default function Home() {
   return (
-    <main className="min-h-screen bg-[url('../../public/image_bg.jpg')] bg-no-repeat">
+    <main className="min-h-screen bg-black">
       <PokemonCards />
     </main>
   );
