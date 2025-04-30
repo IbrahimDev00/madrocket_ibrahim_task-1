@@ -1,36 +1,21 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Madrocket internship task-1 for Javascript intern
+### Dony by - Ibrahim Chikani
 
-## Getting Started
+## Tech Stack used
+- Next.JS
+- Tailwind CSS
+- Pokeapi
 
-First, run the development server:
+## How I built it/ Features implemented
+1. Implemented Google's floating label UI
+2. Used state management in React to track changes in the input fields.
+3. Ensured the responsiveness of pages.
+4. Used custom colours for different Pokémon types to ensure better visibility and differentiation.
+5. Added cool UI interaction to make the website experience lively.
+6. Added live search.
+7. Added filter based on types. Ensuring smooth transitions.
+8. Made sure UI was Modern and attractive.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Best practices that I followed
+- Usage of useState to track form state.
+- Usage of useEffect to mount user data dynamically.
