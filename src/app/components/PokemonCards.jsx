@@ -1,9 +1,9 @@
 'use client';
 import { useEffect, useState } from "react";
 import Image from "next/image";
-import SearchBar from "./SearchBar";
+import SearchBar from "./Searchbar";
 import FilterDropdown from "./FilterDropdown";
-import PokemonCard from "./PokemonCard"; // Using our improved PokemonCard component
+import PokemonCard from "./PokemonCard"; 
 
 export default function PokemonCards() {
   const [pokemonList, setPokemonList] = useState([]);
